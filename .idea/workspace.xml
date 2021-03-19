@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45ee5060-6077-4b5c-a76f-0ad82f3061ac" name="Default Changelist" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArrays/DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArrays/FillTheMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArrays/MatrixShuffling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArrays/ParkingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArrays/RadioactiveMutantVampireBunnies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArrays/StringMatrixRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArrays/TheHeiganDance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetsAndMapsAdvanced/AMinerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetsAndMapsAdvanced/CountSymbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetsAndMapsAdvanced/FixEmails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetsAndMapsAdvanced/PeriodicTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetsAndMapsAdvanced/Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetsAndMapsAdvanced/SetsOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetsAndMapsAdvanced/UniqueUsernames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultidimensionalArrays/p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultidimensionalArrays/MaximalSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616147815450</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated files">
+      <created>1616148617621</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616148617621</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -86,9 +92,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="512" y="168" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1616145851998" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1616147817042">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1616148619064">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1616147817042" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1616148619064" />
   </component>
 </project>
